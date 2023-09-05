@@ -21,7 +21,7 @@ Hedeflenen sayfa dizaynı şu dosya içerisinde gösterilmiştir: [dizayn dosyas
 
 Aşağıdaki adımları takip edin.:
 
-- [ ] Repoyu forklayın ve klonlayın.
+- [] Repoyu forklayın ve klonlayın.
 - [ ] BRANCH OLUŞTURMAYIN. Güncellemelerinizi main/master 'a pushlayacaksınız.
 - [ ] Terminalden reponuzun bulunduğu klasöre ulaşın ve VS Code'u açmak için . yazın ve entera basın. Ya da VS Code içerisine proje klasörünü sürükleyip bırakabilirsiniz.
 - [ ] VS Code'un sol tarafındaki Eklentiler bölümünden Live Server eklentisini indirin. Eklenti yüklendikten sonra sağ altta bulunan "Go Live" butonuna basarak HTML dosyanızı çalıştırabilirsiniz.
